@@ -1,0 +1,17 @@
+{
+  "name": "caniadj",
+  "version": "1.0.0",
+  "description": "Music Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aTorojaen",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-v11": "^12.1.1",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.11.5"
+  }
+}
